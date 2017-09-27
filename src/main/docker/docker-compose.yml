@@ -1,0 +1,6 @@
+pruebas_operations:
+ build: .
+ ports:
+  - "9999:9999"
+
+  
